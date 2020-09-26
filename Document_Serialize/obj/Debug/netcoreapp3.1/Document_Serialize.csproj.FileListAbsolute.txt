@@ -1,0 +1,4 @@
+C:\Users\Admin\source\repos\Document_Serialize\Document_Serialize\bin\Debug\netcoreapp3.1\Document_Serialize.exe
+C:\Users\Admin\source\repos\Document_Serialize\Document_Serialize\obj\Debug\netcoreapp3.1\Document_Serialize.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Document_Serialize\Document_Serialize\obj\Debug\netcoreapp3.1\Document_Serialize.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Document_Serialize\Document_Serialize\obj\Debug\netcoreapp3.1\Document_Serialize.AssemblyInfo.cs
